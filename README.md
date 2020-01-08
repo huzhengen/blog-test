@@ -7,9 +7,9 @@
 
 我的技能有
 
-1.JavaScript
-2.Vue
-3.React
+1. JavaScript
+2. Vue
+3. React
 
 学过的编程语言有 `HTML` `CSS` `JavaScript`。我写一段给你瞧瞧吧
 
